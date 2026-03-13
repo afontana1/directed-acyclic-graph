@@ -11,7 +11,7 @@ The code is organized so that:
 Install the package from the project root:
 
 ```bash
-pip install .
+pip install -e .
 ```
 
 After installation:
